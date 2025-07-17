@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone (HTML + CSS)
 
-This is a simple "Spotify Clone" built using only "HTML and CSS". The goal of this project was to replicate the basic layout and design of the Spotify web interface as closely as possible using pure frontend technologies.
+This is a simple **Spotify Clone** built using only **HTML and CSS**. The goal of this project was to replicate the basic layout and design of the Spotify web interface as closely as possible using pure frontend technologies.
 
 🚀 Features
 
@@ -17,6 +17,6 @@ This is a simple "Spotify Clone" built using only "HTML and CSS". The goal of th
 
 - HTML5
 - CSS3
-- Font Awesome (for icons, if used)
-- Google Fonts (optional)
+- Font Awesome (for icons)
+- Google Fonts 
 
